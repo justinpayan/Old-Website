@@ -71,19 +71,19 @@ a:link {
     /*color: #A140ff;*/
     /*color: #C999ff;*/
     /*color: #00FCFF;*/
-    color: #CCCCCC;
+    color: #4169E1;
     text-decoration: none;
 }
 
 a:visited {
     text-decoration: none;
     /*color: #C999ff;*/
-    color: #CCCCCC;
+    color: #B0E0E6;
     /*color: #A140ff;*/
 }
 
 a:hover {
-    color: #000000;
+    color: blanchedalmond;
     text-decoration: underline;
 }
 
